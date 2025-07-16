@@ -75,19 +75,23 @@ df['START_DATE'] = df['START_DATE'].dt.strftime('%d-%m-%Y %H:%M')
 
 #### 1. Category and Distance Overview
 
-![Dashboard 1](../images/92a402bf-d074-462c-8387-44df85bb3cbb.jpg)
+![Dashboard 1](![WhatsApp Image 2025-07-16 at 22 24 12_1141d25a](https://github.com/user-attachments/assets/937bc4e4-ab09-4303-b521-d23a7ac0389f)
+)
 
 #### 2. Location Hotspots and Purpose Filter
 
-![Dashboard 2](../images/93e12b58-8fce-43b1-84ef-3d31030bbd49.jpg)
+![Dashboard 2](![WhatsApp Image 2025-07-16 at 22 23 40_14f55f3d](https://github.com/user-attachments/assets/951f0db9-10a5-45d8-acb5-01a5db852508)
+)
 
 #### 3. Time Duration and Revenue Analysis
 
-![Dashboard 3](../images/1d2ba0c8-4f82-47a6-a0f8-fa0fb3f95a7f.jpg)
+![Dashboard 3](![WhatsApp Image 2025-07-16 at 21 46 19_a20caec5](https://github.com/user-attachments/assets/cd981437-ea5e-4f69-ae19-229d7e4e2fa4)
+)
 
 #### 4. Purpose Donut Chart and Max Miles
 
-![Dashboard 4](../images/e7e78b4d-f60e-4dba-9958-c5aece4f360a.jpg)
+![Dashboard 4](![WhatsApp Image 2025-07-16 at 22 02 09_86c09d82](https://github.com/user-attachments/assets/4c7281c8-5724-4f44-9a72-28ca4c99819a)
+)
 
 ---
 
@@ -101,22 +105,7 @@ df['START_DATE'] = df['START_DATE'].dt.strftime('%d-%m-%Y %H:%M')
 
 ---
 
-## 📁 Folder Structure
 
-```
-Uber-Trip-Analysis/
-│
-├── data/
-│   └── UberDataset.csv
-├── scripts/
-│   └── clean_data.py
-├── dashboard/
-│   └── UberDashboard.pbix
-├── images/
-│   └── dashboard_screenshots.jpg
-├── README.md
-└── requirements.txt
-```
 
 ---
 
