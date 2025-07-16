@@ -75,23 +75,23 @@ df['START_DATE'] = df['START_DATE'].dt.strftime('%d-%m-%Y %H:%M')
 
 #### 1. Category and Distance Overview
 
-![Dashboard 1](![WhatsApp Image 2025-07-16 at 22 24 12_1141d25a](https://github.com/user-attachments/assets/937bc4e4-ab09-4303-b521-d23a7ac0389f)
-)
+![WhatsApp Image 2025-07-16 at 22 24 12_1141d25a](https://github.com/user-attachments/assets/937bc4e4-ab09-4303-b521-d23a7ac0389f)
+
 
 #### 2. Location Hotspots and Purpose Filter
 
-![Dashboard 2](![WhatsApp Image 2025-07-16 at 22 23 40_14f55f3d](https://github.com/user-attachments/assets/951f0db9-10a5-45d8-acb5-01a5db852508)
-)
+![WhatsApp Image 2025-07-16 at 22 23 40_14f55f3d](https://github.com/user-attachments/assets/951f0db9-10a5-45d8-acb5-01a5db852508)
+
 
 #### 3. Time Duration and Revenue Analysis
 
-![Dashboard 3](![WhatsApp Image 2025-07-16 at 21 46 19_a20caec5](https://github.com/user-attachments/assets/cd981437-ea5e-4f69-ae19-229d7e4e2fa4)
-)
+![WhatsApp Image 2025-07-16 at 21 46 19_a20caec5](https://github.com/user-attachments/assets/cd981437-ea5e-4f69-ae19-229d7e4e2fa4)
+
 
 #### 4. Purpose Donut Chart and Max Miles
 
-![Dashboard 4](![WhatsApp Image 2025-07-16 at 22 02 09_86c09d82](https://github.com/user-attachments/assets/4c7281c8-5724-4f44-9a72-28ca4c99819a)
-)
+![WhatsApp Image 2025-07-16 at 22 02 09_86c09d82](https://github.com/user-attachments/assets/4c7281c8-5724-4f44-9a72-28ca4c99819a)
+
 
 ---
 
@@ -114,7 +114,7 @@ df['START_DATE'] = df['START_DATE'].dt.strftime('%d-%m-%Y %H:%M')
 1. Clone the repo
 
    ```bash
-   git clone https://github.com/your-username/Uber-Trip-Analysis.git
+   git clone https://github.com/ranjanihub/uber_analysis.git
    ```
 2. Install Python dependencies
 
