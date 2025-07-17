@@ -109,26 +109,7 @@ df['START_DATE'] = df['START_DATE'].dt.strftime('%d-%m-%Y %H:%M')
 
 ---
 
-## ✅ How to Run
 
-1. Clone the repo
-
-   ```bash
-   git clone https://github.com/ranjanihub/uber_analysis.git
-   ```
-2. Install Python dependencies
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the script to clean data
-
-   ```bash
-   python scripts/clean_data.py
-   ```
-4. Open `UberDashboard.pbix` in Power BI Desktop
-
----
 
 ## 📬 Contact
 
